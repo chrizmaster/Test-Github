@@ -8,7 +8,7 @@
 		var currentTooltip = null;
 
 		/*
-		 * DFB-Tooltip default options
+		 * Tooltip default options
 		 *
 		 * sticky:			(Boolean:false) Sticky tooltip, hides when leaving the tooltip itself or clicking
 		 * connector:		(String:null) Position of the connector (valid options: top,bottom,left,tight in format 'option1, option2'
